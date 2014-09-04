@@ -1,0 +1,34 @@
+@charset "UTF-8";
+html{
+
+}
+/*--- html ---*/
+body{
+	background: url("../img/bg_repeat.gif") repeat-x 0 0,url("../img/gardening.png") no-repeat center 29px;
+	background-color: #e8e0d0;
+}
+/*--- body ---*/
+#wrapper{
+
+}
+/*--- wrapper ---*/
+#header{
+
+}
+/*--- header ---*/
+.main-nav{
+
+}
+/*--- navigation ---*/
+#container{
+
+}
+/*--- container ---*/
+#main{
+
+}
+/*--- main ---*/
+#footer{
+
+}
+/*--- footer ---*/
